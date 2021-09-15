@@ -1,9 +1,12 @@
 #include<iostream>
-#include<conio.h>
 using namespace std;
 
 main(){
-	cout<<"Cocina";
+	cout<<"NOMBRE: "; char n;
+	cin>>n;
+	cout<<"EDAD: "; int e;
+	cin>>e;
+	cout<<"DATOS: "<<n<<" - "<<e;
 }
 
 
