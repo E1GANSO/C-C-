@@ -1,5 +1,5 @@
 /*
-	Ejercicio 11: Dada una nota de un examen mediante un código escribir 
+	Ejercicio 11: Dada una nota de un examen mediante un cÃ³digo escribir 
 	el literal que le corresponde a la nota.
 
 	A - Excelente ==> 5
@@ -8,7 +8,7 @@
 	D y F - Reprobado ==> =/3
 	
 	
-	Ejercicio 12: Seleccionar un tipo de vehículo e indicar el peaje a pagar según un valor numérico
+	Ejercicio 12: Seleccionar un tipo de vehÃ­culo e indicar el peaje a pagar segÃºn un valor numÃ©rico
 	1 - turismo, peaje = $500.
 	2 - autobus, peaje = $3000.
 	3 - motocicleta, peaje = $300.
@@ -40,7 +40,16 @@ main(){
 		Promedio(a,b,c);
 		i++;
 	}while(x!=i);
-	
 	getch();
 }
 
+/*
+	PROBANDO USO DE LA CODIFICACION DESDE EL REPOSITORIO REMOTO
+	
+	AAHDFBUKEYVUKWEFGVY<UKWE3FYRKUR2
+	SDQRFWEGTAW4TF WAAEFAWFRAWETWSGAW
+	FASGTA<WTFG34TAW34TAW
+	WSFGAW4EGVET TGEGHEDRY AERH DJGFHKMV
+	FGHJDXFGHSTYHSER YERYHESRY EAR
+	AREWGSERYHERTJKSERTFAWHRSRT SRTRHSERUER
+*/
